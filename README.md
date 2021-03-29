@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LucasValentimB
+- 👀 I’m interested in learning new things, program, study and build things.
+- 🌱 I’m currently learning python for my research and studyng engineering.
+- 💞️ I’m looking to collaborate on the python and the aerospace community.
+- 📫 How to reach me try... idk
