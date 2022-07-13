@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @LucasValentimB
-- 👀 I’m interested in learning new things, program, study and build things.
-- 🌱 I’m currently learning python for my research and studyng engineering.
+- 👋 Hi, I’m Lucas Valentim @LucasValentimB
+- 👀 I’m interested in learning new things, programming, study and build things.
+- 🌱 I’m currently learning python for my research but I also studied Java, C# and Delphi.
+- 🌱 Currently graduating in Aerospace Engineering and posteriorly computer science
 - 💞️ I’m looking to collaborate on the python and the aerospace community.
-- 📫 How to reach me try... idk
+- 📫 Try to reach me by lucasbcamara@gmail.com
